@@ -6,7 +6,7 @@ Mods to display hh notes on screen
 
 [ARMIPS.EXE BY Kingcom](https://www.romhacking.net/utilities/635/)
 
-[MODMANAGER BY KUROGAMI](https://gamebanana.com/tools/19380)
+[MODMANAGER BY KUROGAMI2134](https://gamebanana.com/tools/19380)
 
 ## HOW TO COMPILE
 
@@ -17,4 +17,5 @@ Place armips.exe in the folder and run with CMD.
 
     [nohd]
     armips.exe nohd.asm
+
 
