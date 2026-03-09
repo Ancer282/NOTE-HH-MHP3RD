@@ -10,10 +10,11 @@ Mods to display hh notes on screen
 
 ## HOW TO COMPILE
 
-Place armips.exe in the folder and run
+Place armips.exe in the folder and run with CMD.
 
- [hd]
- armips.exe hd.asm
+    [hd]
+    armips.exe hd.asm
 
- [nohd]
- armips.exe nohd.asm
+    [nohd]
+    armips.exe nohd.asm
+
